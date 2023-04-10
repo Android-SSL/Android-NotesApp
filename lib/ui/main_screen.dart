@@ -58,7 +58,7 @@ class MainScreen extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: const [
               Text(
-                'Made by - Home1esscat',
+                'Made by - B-3 OG Group',
                 style: TextStyle(color: Colors.white),
               ),
               Text(
@@ -66,7 +66,7 @@ class MainScreen extends StatelessWidget {
                 style: TextStyle(color: Colors.white),
               ),
               Text(
-                'Illustrations - www.storyset.com',
+                'Illustrations - NA',
                 style: TextStyle(color: Colors.white),
               ),
               Text(
