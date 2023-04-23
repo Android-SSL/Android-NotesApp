@@ -8,14 +8,11 @@ class CustomColors {
   static const Color greyHint = Color.fromRGBO(136, 136, 136, 1.0);
   static const List<Color> colorsData = [
     Colors.grey,
-    Colors.red,
     Colors.orange,
     Colors.blue,
     Colors.lime,
     Colors.teal,
-    Colors.blueGrey,
-    Colors.pink,
     Colors.purple,
-    CustomColors.lightGrey
+    Colors.pink
   ];
 }
