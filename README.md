@@ -29,3 +29,13 @@ and the issues the app should resolve are:
    create, edit, and view notes even when they are not connected to the internet.
    The app should automatically sync with the cloud and update the data when
    the device is online again
+   
+  -- Project submission details --
+  
+  Submitted by:
+   PRATHMESH BANSAL (0801IT201067)
+   SARTHAK MODHE (0801IT201078) 
+   SHREYANSH SHUKLA (0801IT201081)
+   
+  Submitted to:
+   MR. UPENDRA SINGH
