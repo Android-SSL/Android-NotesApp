@@ -6,6 +6,7 @@ class CustomColors {
   static const Color trueBlack = Color.fromRGBO(25, 25, 25, 1.0);
   static const Color deepRed = Color.fromRGBO(246, 0, 0, 1.0);
   static const Color greyHint = Color.fromRGBO(136, 136, 136, 1.0);
+  static const Color customC = Color.fromRGBO(213, 56, 172, 1.0);
   static const List<Color> colorsData = [
     Colors.grey,
     Colors.orange,
@@ -13,6 +14,7 @@ class CustomColors {
     Colors.lime,
     Colors.teal,
     Colors.purple,
-    Colors.pink
+    Colors.pink,
+    Colors.customC
   ];
 }
